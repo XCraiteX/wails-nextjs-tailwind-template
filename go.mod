@@ -1,4 +1,4 @@
-module {{.ProjectName}}
+module wails-nextjs-app
 
 go 1.25.0
 
