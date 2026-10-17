@@ -1,5 +1,3 @@
-# README
-
 ## About
 
 Wails template for Nextjs v16.3.5 with tailwindcss v4.
@@ -7,12 +5,12 @@ Wails template for Nextjs v16.3.5 with tailwindcss v4.
 You can configure the project by editing `wails.json`. More information about the project settings can be found
 here: https://wails.io/docs/reference/project-config
 
-## New Project
+## Create project
 
 You can create a new wails project using:
 
 ```
-wails init -n "Your Project Name" -t https://github.com/xcraitex/wails-nextjs-tailwind-template
+wails init -n "Project Name" -t https://github.com/xcraitex/wails-nextjs-tailwind-template
 ```
 
 ## Live Development
