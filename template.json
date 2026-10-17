@@ -5,7 +5,6 @@
   "description": "Modern Wails v2 desktop app template using Next.js and TailwindCSS.",
   "install": "npm install",
   "build": "npm run build",
-  "author": {
-    "name": "XCraiteX"
-  }
+  "author": "XCraiteX"
+  
 }
