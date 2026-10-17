@@ -1,4 +1,4 @@
-module client-app
+module {{.ProjectName}}
 
 go 1.25.0
 
